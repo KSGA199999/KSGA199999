@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KSGA199999
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
